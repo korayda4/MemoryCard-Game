@@ -1,5 +1,5 @@
 # MemoryCard-Game
-# TodoList - Basic JavaScript Test
+# MemoryCard Game - Basic JavaScript 
 -----------------------------------
 # 💫 About Me:
 🔭 I’m currently working on FrontEnd<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
